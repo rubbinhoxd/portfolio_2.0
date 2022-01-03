@@ -1,3 +1,3 @@
-## Personal Portfolio
+## Porfolio Pessoal
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+# Feito com React.js, HTML, CSS e JavaScript. Totalmente responsivo e dinâmico.

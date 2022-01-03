@@ -1,2 +1,3 @@
-# portfolio_2.0
-Novo repositório, com novo layoult, responsivo e feito com React.js e Next.js
+## Personal Portfolio
+
+![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
